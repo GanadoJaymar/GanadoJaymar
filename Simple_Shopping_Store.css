@@ -1,0 +1,30 @@
+    body {
+    background-color: goldenrod;
+    padding-top: 60px; 
+}
+
+.navbar {
+    background-color: green; 
+}
+
+.navbar-brand {
+    color: #ffffff; 
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.cart {
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
